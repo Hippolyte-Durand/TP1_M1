@@ -1,4 +1,5 @@
 # Exercice : Calcul des coûts d'une Infrastructure Cloud (IaaS)
+
 ---
 
 ## 1. Hypothèses et Règles de Calcul
@@ -6,7 +7,7 @@
 Conformément aux consignes de l'exercice :
 * **Périodicité :** Mensuelle (base moyenne de 730 heures).
 * **Devise :** USD ($) Hors Taxes.
-* **Taux de change appliqué :** $1.00 € \approx 1.05 \$$.
+* **Taux de change appliqué :** $1.00 \text{ €} \approx 1.05 \$$.
 * **Région :** France (Paris) ou Europe.
 * **Méthodologie :** Comparatif basé sur des instances **Cloud Public (IaaS)** pour assurer une équivalence technique stricte (stockage, réseau, disponibilité). Pas d'offre VPS.
 
@@ -131,5 +132,5 @@ Voici le tableau comparatif final des coûts mensuels estimés pour les trois in
 | **2. Scaleway** | 76,69 $| 217,12$ | 152,85 $ | **446,66 $** |
 | **3. Azure** | 133,87 $| 568,50$ | 205,01 $ | **907,38 $** |
 
-Dans cette exemple, **OVHcloud** est systématiquement le fournisseur le plus économique (**~331 $ / mois**), suivi par Scaleway.
+Dans cet exemple, **OVHcloud** est systématiquement le fournisseur le plus économique (**~331 $ / mois**), suivi par Scaleway.
 L'avantage concurrentiel principal d'OVHcloud réside dans l'inclusion du disque système (NVMe/SSD) dans le prix horaire de ses instances Public Cloud, là où ses concurrents le facturent en supplément, ce qui impacte fortement les coûts lors du passage à l'échelle (Infra 2 et 3).
