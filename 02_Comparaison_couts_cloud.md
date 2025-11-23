@@ -25,7 +25,7 @@ Conformément aux consignes de l'exercice :
     * **Offre :** Instance Public Cloud `b3-16` (4 vCPU, 16 Go RAM).
     * **Tarif :** 0,093 €/heure.
     * **Stockage :** 100 Go NVMe (Inclus dans l'instance).
-    * **Calcul :** $0,093 \text{ €} \times 730 \text{ h} \times 1,05 \approx \mathbf{71,28 \$}$.
+    * **Calcul :** $0,093 \text{ €} \times 730 \text{ h} \times 1,05 \approx \mathbf{71,28 \$}.
 
 * **Scaleway :**
     * **Offre :** Instance `COPARM1-4C-16G` (Architecture ARM).
