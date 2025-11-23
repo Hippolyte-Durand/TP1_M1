@@ -1,6 +1,4 @@
----
-sticker: lucide//download-cloud
----
+
 # Étude de Cas : Quel Type de Cloud pour Quels Besoins ?
 
 Voici l'analyse complète des différents cas présentés dans l'exercice.
@@ -15,7 +13,7 @@ Voici l'analyse complète des différents cas présentés dans l'exercice.
 #### **Solution préconisée : PaaS sur Cloud Public**
 
 *   **Type de Cloud:** **Cloud Public** (ex: AWS, Azure, Google Cloud). Un cloud privé serait financièrement et techniquement démesuré pour une start-up. Le cloud public offre un modèle de coût flexible (OPEX) sans investissement initial (CAPEX).
-*
+  
 *   **Modèle de service:** **PaaS (Platform as a Service)**. Ce modèle permet à l'équipe de se concentrer sur le développement de son application et de son CRM sans gérer la complexité de l'infrastructure sous-jacente (serveurs, OS, réseau).
 
 *   **Coût:** L'estimation de départ se situe entre **150€ et 300€ par mois**, avec une augmentation progressive en fonction de la croissance du nombre d'utilisateurs.
