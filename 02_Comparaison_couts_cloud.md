@@ -7,7 +7,7 @@
 Conformément aux consignes de l'exercice :
 * **Périodicité :** Mensuelle (base moyenne de 730 heures).
 * **Devise :** USD ($) Hors Taxes.
-* **Taux de change appliqué :** $1.00 \text{ €} \approx 1.05 \$$.
+* **Taux de change appliqué :** $1.00 \text{ €} \approx 1.05 \$.
 * **Région :** France (Paris) ou Europe.
 * **Méthodologie :** Comparatif basé sur des instances **Cloud Public (IaaS)** pour assurer une équivalence technique stricte (stockage, réseau, disponibilité). Pas d'offre VPS.
 
